@@ -3,6 +3,7 @@ yt-dlp-gui is a simple GUI program that makes using yt-dlp for people not famili
 
 # Why this project?
 You might ask, why did I make this project? There are already a lot of yt-dlp/youtube-dl gui wrappers out there.
+
 I made it because of a few reasons:
 1. I wanted to make this to extend my Python knowledge
 2. Many of the yt-dlp/youtube-dl gui wrappers are dead/unmaintained

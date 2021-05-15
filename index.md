@@ -1,4 +1,4 @@
-#About
+# About
 yt-dlp-gui is just a simple little GUI program that makes using yt-dlp for people not familiar with the terminal/the command prompt.
 
 # Download

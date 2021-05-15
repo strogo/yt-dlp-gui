@@ -8,5 +8,6 @@ I made it because of a few reasons:
 1. I wanted to make this to extend my Python knowledge
 2. Many of the yt-dlp/youtube-dl gui wrappers are dead/unmaintained
 3. A lot of the yt-dlp/youtube-dl gui wrappers did not have a simple interface and I want to kinda balance yt-dlp-gui between simpicity and functionality
+4. Some of the yt-dlp/youtube-dl gui wrappers use Electron (just, why) or a web application
 
 I will be adding more features soon, you can see the progress [here](https://github.com/SKBotNL/yt-dlp-gui/projects/1).

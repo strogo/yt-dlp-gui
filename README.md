@@ -2,7 +2,7 @@
 yt-dlp-gui is a simple GUI program that makes using yt-dlp for people not familiar with the terminal/the command prompt. (made for Windows)
 
 # Why this project?
-You might ask: There are already a lot of yt-dlp/youtube-dl gui wrappers out there, so why did you make another one?
+You might ask: "There are already a lot of yt-dlp/youtube-dl gui wrappers out there, so why make another one?"
 
 I made it because of a few reasons:
 1. I wanted to make this to extend my C# knowledge

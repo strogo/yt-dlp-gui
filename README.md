@@ -1,5 +1,5 @@
 # yt-dlp-gui
-yt-dlp-gui is a simple GUI program that makes using yt-dlp for people not familiar with the terminal/the command prompt. (made for Windows)
+yt-dlp-gui is a simple GUI program that makes using yt-dlp for people not familiar with the terminal/command prompt. (made for Windows)
 
 # Why this project?
 You might ask: "There are already a lot of yt-dlp/youtube-dl gui wrappers out there, so why make another one?"

@@ -1,4 +1,5 @@
 # REWRITE IN PROGRESS!!
+[![yt-dlp-gui](https://raw.githubusercontent.com/SKBotNL/yt-dlp-gui/master/images/yt-dlp-gui.png)](#readme)
 # yt-dlp-gui
 yt-dlp-gui is a simple GUI program that makes using yt-dlp for people not familiar with the terminal/command prompt. (made for Windows)
 
